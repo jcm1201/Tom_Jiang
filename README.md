@@ -3,7 +3,6 @@
 There are currently two modules, Script_QC_auto.R and Script_MAF2CSV.R, which are used to automatically do the WES down-stream analyses.
 
 ## Description
-?An in-depth paragraph about your project and overview of use.
 Script_QC_auto.R: quality control anlyeses for single or multiple samples. it can automate to get the *.csv from the *.maf files. the *.csv includes the easily understand mutation information. 
 Script_MAF2CSV.R: mutations analyses for single or multiple samples.it can get the QC summary table.
 
@@ -11,8 +10,6 @@ Script_MAF2CSV.R: mutations analyses for single or multiple samples.it can get t
 
 ### Dependencies
 
-?* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-*? ex. Windows 10 
 R version >=3.0
 
 ### Installing
@@ -54,10 +51,10 @@ Rscript /home/rstudio/chongming/Xilis_project/WES03/Script/Script_QC_auto.R /hom
 
 R version >=3.0
 
-### Installing
+### Installing R packages
 
-dplyr
-tidyr
+* dplyr
+* tidyr
 
 ### Executing program
 
