@@ -15,8 +15,8 @@ R version >=3.0
 ### Installing
 
 There are two common R packeges need, as shown below:
-dplyr
-jsonlite
+* dplyr
+* jsonlite
 
 ### Executing program
 
@@ -51,8 +51,9 @@ Rscript /home/rstudio/chongming/Xilis_project/WES03/Script/Script_QC_auto.R /hom
 
 R version >=3.0
 
-### Installing R packages
+### Installing
 
+There are two common R packeges need, as shown below:
 * dplyr
 * tidyr
 
