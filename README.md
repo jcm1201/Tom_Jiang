@@ -3,8 +3,8 @@
 There are currently two modules, Script_QC_auto.R and Script_MAF2CSV.R, which are used to automatically do the WES down-stream analyses.
 
 ## Description
-Script_QC_auto.R: quality control anlyeses for single or multiple samples. it can automate to get the *.csv from the *.maf files. the *.csv includes the easily understand mutation information. 
-Script_MAF2CSV.R: mutations analyses for single or multiple samples.it can get the QC summary table.
+* Script_QC_auto.R: quality control anlyeses for single or multiple samples. It can get the QC summary table.
+* Script_MAF2CSV.R: mutations analyses for single or multiple samples.it can automate to get the *.csv from the *.maf files. The *.csv includes the easily understand mutation information. 
 
 ## Script_QC_auto.R
 
